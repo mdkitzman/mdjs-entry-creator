@@ -21,15 +21,6 @@ Once installed, run
 nvm use <version from .nvmrc>
 ```
 
-## Testing
-
-Run 
-
-```bash
-npm test
-```
- to run the tests
-
 ## Usage
 
 On the command line, run 
@@ -39,3 +30,12 @@ npm start
 ```
 
 This will run the application and print out the parameters you can use with the program.
+
+## Testing
+
+Run 
+
+```bash
+npm test
+```
+ to run the tests
