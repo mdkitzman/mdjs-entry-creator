@@ -3,12 +3,12 @@
 ## Purpose
 
 This project is a node re-write of my moneydance-entry-creator project, which was written
-in Java.  I wanted to try an write this in Node.js to try something new.
+in Java. I wanted to try an write this in Node.js to try something new.
 
 ## Setup
 
-I recommend using `nvm` to install and manage node.js versions.  There is a `.nvmrc` file
-that specifies the version of node.js to use.  Run the this via the command line to install
+I recommend using `nvm` to install and manage node.js versions. There is a `.nvmrc` file
+that specifies the version of node.js to use. Run the this via the command line to install
 the correct version of node.js
 
 ```bash
@@ -23,7 +23,7 @@ nvm use <version from .nvmrc>
 
 ## Usage
 
-On the command line, run 
+On the command line, run
 
 ```bash
 npm start
@@ -33,9 +33,10 @@ This will run the application and print out the parameters you can use with the 
 
 ## Testing
 
-Run 
+Run
 
 ```bash
 npm test
 ```
- to run the tests
+
+to run the tests
